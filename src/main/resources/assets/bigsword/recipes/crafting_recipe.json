@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": [
+      {
+        "item": "minecraft:crafting_table",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "bigsword:crafting",
+    "data": 0,
+    "count": 1
+  }
+}

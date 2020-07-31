@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "facing=north": { "model": "bigsword:crafting" },
+    "facing=east": { "model": "bigsword:crafting", "y": 90 },
+    "facing=south": { "model": "bigsword:crafting", "y": 180 },
+    "facing=west": { "model": "bigsword:crafting", "y": 270 }
+  }
+}

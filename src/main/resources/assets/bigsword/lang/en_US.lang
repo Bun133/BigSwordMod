@@ -1,0 +1,7 @@
+item.test_sword.name=test_sword
+itemGroup.BigSword=BigSword
+item.big_diamond_sword.name=Big Diamond Sword
+item.big_black_sword.name=Big Black Sword
+item.big_black_sword_lit.name=Big Black Sword
+item.multi_tool.name=Multi Tool
+tile.crafting.name=Crafting
